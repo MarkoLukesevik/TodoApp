@@ -1,0 +1,16 @@
+.circle{
+    height: 24px;
+    width: 24px;
+    border: 1px solid #E3E4F1;
+    border-radius: 50%;
+    margin-left: 10px;
+    cursor: pointer;
+    background-size: cover;
+  }
+  .empty-circle{
+    background-image: url(../../images/incompleteBtn.png);
+  }
+  
+  .full-circle{
+    background-image: url(../../images/completeBtn.png);
+  }
